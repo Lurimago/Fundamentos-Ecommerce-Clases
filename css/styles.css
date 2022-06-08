@@ -1,0 +1,9 @@
+.card {
+    width: 18rem;
+    margin-bottom: 0.5rem;
+}
+.titulo {
+    border-style:solid;
+    border-color: black;
+    text-align: center;
+}
